@@ -1,7 +1,7 @@
 // Calculator 
 
 // 1 chiedere all'utente di inserire un primo numero, l'operazione da effettuare e un secondo numero
-// 2 restituire all'utente il risultato tramite un alert()
+// 2 restituire all'utente il risultato 
 
 function operation() {
   const firstNum = prompt('Inserisci il primo numero');
